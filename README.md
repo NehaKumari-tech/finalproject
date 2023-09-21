@@ -19,7 +19,10 @@ This is my final project FRT
 ![image](https://github.com/NehaKumari-tech/finalproject/assets/140386551/9501d7f8-21cf-4379-a444-936813113e1f) 
 
 ## Azure portal screen shot 
-![image](https://github.com/NehaKumari-tech/finalproject/assets/140386551/a5a5b596-e0ca-450e-854c-05bb4dcb1891)
+![image](https://github.com/NehaKumari-tech/finalproject/assets/140386551/a5a5b596-e0ca-450e-854c-05bb4dcb1891) 
+
+## youtube video shorts link  
+https://youtube.com/shorts/DLdhNGESS6o?si=C3njxUExoSAMJ5eD
 
 
 
